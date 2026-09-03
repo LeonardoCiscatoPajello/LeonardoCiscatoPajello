@@ -60,7 +60,8 @@ Right now, that's mostly **frontend development**.
 
 ![Linux](https://img.shields.io/badge/Linux-2b2d31?style=flat-square&logo=linux&logoColor=FCC624) ![Hyprland](https://img.shields.io/badge/Hyprland-2b2d31?style=flat-square&logo=hyprland&logoColor=58E1FF)<br/>
 ![Bash](https://img.shields.io/badge/Bash-2b2d31?style=flat-square&logo=gnubash&logoColor=4EAA25) ![Git](https://img.shields.io/badge/Git-2b2d31?style=flat-square&logo=git&logoColor=F05032)<br/>
-![Vim](https://img.shields.io/badge/Vim-2b2d31?style=flat-square&logo=vim&logoColor=019733) ![Neovim](https://img.shields.io/badge/Neovim-2b2d31?style=flat-square&logo=neovim&logoColor=57A143)
+![Vim](https://img.shields.io/badge/Vim-2b2d31?style=flat-square&logo=vim&logoColor=019733) ![Neovim](https://img.shields.io/badge/Neovim-2b2d31?style=flat-square&logo=neovim&logoColor=57A143)<br/>
+![Qt](https://img.shields.io/badge/Qt-2b2d31?style=flat-square&logo=qt&logoColor=41CD52)
 
 </td>
 <td align="center">
@@ -68,7 +69,8 @@ Right now, that's mostly **frontend development**.
 ![Python](https://img.shields.io/badge/Python-2b2d31?style=flat-square&logo=python&logoColor=3776AB) ![C](https://img.shields.io/badge/-2b2d31?style=flat-square&logo=c&logoColor=A8B9CC)<br/>
 ![C#](https://img.shields.io/badge/C%23-2b2d31?style=flat-square&logo=csharp&logoColor=239120) ![LaTeX](https://img.shields.io/badge/LaTeX-2b2d31?style=flat-square&logo=latex&logoColor=008080)<br/>
 ![Markdown](https://img.shields.io/badge/Markdown-2b2d31?style=flat-square&logo=markdown&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2b2d31?style=flat-square&logo=lua&logoColor=2C2D72)<br/>
-![R](https://img.shields.io/badge/R-2b2d31?style=flat-square&logo=r&logoColor=276DC3) ![Java](https://img.shields.io/badge/Java-2b2d31?style=flat-square&logo=openjdk&logoColor=007396)
+![R](https://img.shields.io/badge/R-2b2d31?style=flat-square&logo=r&logoColor=276DC3) ![Java](https://img.shields.io/badge/Java-2b2d31?style=flat-square&logo=openjdk&logoColor=007396)<br/>
+![Dart](https://img.shields.io/badge/Dart-2b2d31?style=flat-square&logo=dart&logoColor=0175C2) ![Flutter](https://img.shields.io/badge/Flutter-2b2d31?style=flat-square&logo=flutter&logoColor=02569B)
 
 </td>
 </tr>
@@ -77,3 +79,25 @@ Right now, that's mostly **frontend development**.
 </div>
 
 ---
+
+<div align="center">
+
+### Projects
+
+*A small public slice of what I've built — most of the rest lives behind private repos.*
+
+</div>
+
+<table>
+<tr>
+<td width="100%">
+
+**[🏰 Amber Keep](https://github.com/LeonardoCiscatoPajello/AmberKeep.git)**
+
+A rudimental Souls-like action RPG built for a university game programming course, developed with [T-m-m-s](https://github.com/T-m-m-s). This is my fork/copy of the project — see [the original repo](https://github.com/T-m-m-s/AmberKeep) too.
+
+`C#` `Game Dev`
+
+</td>
+</tr>
+</table>
