@@ -17,7 +17,6 @@ Right now, that's mostly **frontend development**.
 
 - 🎓 Studying **Computer Science** at the **University of Udine**
 - 💼 Frontend Developer at an early-stage tech startup, working daily with **Vue** and **Nuxt** — my first real exposure to shipping production code
-- ⚙️ There, frontend takes up most of my time — Node and Zod are daily tools, while Fastify and PostgreSQL I can read and patch when needed
 - 🐧 Linux Rices enthusiast — daily driving **Arch Linux** and **CachyOS** with **Hyprland**, previously NixOS, Fedora and Ubuntu
 - 🛠️ Config tinkerer as much as coder — from window manager (**Hyprland**) to status bar (**Waybar**), theming (**matugen, Qt/GTK**) and editor (**Neovim**)
 
