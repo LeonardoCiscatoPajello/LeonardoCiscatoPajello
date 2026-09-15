@@ -89,13 +89,22 @@ Right now, that's mostly **frontend development**.
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
-**[🏰 Amber Keep](https://github.com/LeonardoCiscatoPajello/AmberKeep.git)**
+**[🏰 Amber Keep](https://github.com/T-m-m-s/AmberKeep.git)**
 
-A rudimental Souls-like action RPG built for a university game programming course, developed with [T-m-m-s](https://github.com/T-m-m-s). This is my fork/copy of the project — see [the original repo](https://github.com/T-m-m-s/AmberKeep) too.
+A rudimental Souls-like action RPG built for a university game programming course, developed with [T-m-m-s](https://github.com/T-m-m-s).
 
 `C#` `Game Dev`
+
+</td>
+<td width="50%">
+
+**[📋 CerTime](https://github.com/LeonardoCiscatoPajello/CerTime)**
+
+A training hours tracker and compliance app built for a university mobile app design course. Offline-first, demo-stage prototype.
+
+`Flutter` `Dart` `SQLite`
 
 </td>
 </tr>
