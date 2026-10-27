@@ -81,6 +81,17 @@ Right now, that's mostly **frontend development**.
 
 <div align="center">
 
+### GitHub Stats
+
+<img height="165" align="center" src="https://github-stats-extended-lcp10.vercel.app/api?username=LeonardoCiscatoPajello&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&icon_color=58E1FF&border_color=2b2d31&ring_color=58E1FF" />
+<img height="165" align="center" src="https://github-stats-extended-lcp10.vercel.app/api/top-langs?username=LeonardoCiscatoPajello&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,jupyter%20notebook,%20OpenSCAD,ShaderLab,php,Racket,%20TeX&layout=compact&langs_count=8&hide_title=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&border_color=2b2d31" />
+
+</div>
+
+---
+
+<div align="center">
+
 ### Projects
 
 *A small public slice of what I've built — most of the rest lives behind private repos.*
