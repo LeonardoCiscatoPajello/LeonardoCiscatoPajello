@@ -83,8 +83,11 @@ Right now, that's mostly **frontend development**.
 
 ### GitHub Stats
 
-<img height="165" align="center" src="https://github-stats-extended-lcp10.vercel.app/api?username=LeonardoCiscatoPajello&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_title=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&icon_color=58E1FF&border_color=2b2d31&ring_color=58E1FF" />
-<img height="165" align="center" src="https://github-stats-extended-lcp10.vercel.app/api/top-langs?username=LeonardoCiscatoPajello&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,jupyter%20notebook,%20OpenSCAD,ShaderLab,php,Racket,%20TeX&layout=compact&langs_count=8&hide_title=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&border_color=2b2d31" />
+
+<img height="165" align="center" src="https://github-stats-extended-lcp10.vercel.app/api?username=LeonardoCiscatoPajello&include_all_commits=true&hide_rank=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&contribs_include_own_repos=true&hide_title=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&icon_color=58E1FF&border_color=2b2d31&ring_color=58E1FF" />
+    
+<img height="165" align="center" src="https://github-stats-extended-lcp10.vercel.app/api/top-langs?username=LeonardoCiscatoPajello&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=html,jupyter%20notebook,OpenSCAD,ShaderLab,php,Racket,TeX&layout=compact&langs_count=10&hide_title=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=c9c9c9&border_color=2b2d31&card_width=400" />
+
 
 </div>
 
