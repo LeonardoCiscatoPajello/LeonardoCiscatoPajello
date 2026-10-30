@@ -60,7 +60,7 @@ Right now, that's mostly **frontend development**.
 ![Linux](https://img.shields.io/badge/Linux-2b2d31?style=flat-square&logo=linux&logoColor=FCC624) ![Hyprland](https://img.shields.io/badge/Hyprland-2b2d31?style=flat-square&logo=hyprland&logoColor=58E1FF)<br/>
 ![Bash](https://img.shields.io/badge/Bash-2b2d31?style=flat-square&logo=gnubash&logoColor=4EAA25) ![Git](https://img.shields.io/badge/Git-2b2d31?style=flat-square&logo=git&logoColor=F05032)<br/>
 ![Vim](https://img.shields.io/badge/Vim-2b2d31?style=flat-square&logo=vim&logoColor=019733) ![Neovim](https://img.shields.io/badge/Neovim-2b2d31?style=flat-square&logo=neovim&logoColor=57A143)<br/>
-![Qt](https://img.shields.io/badge/Qt-2b2d31?style=flat-square&logo=qt&logoColor=41CD52)
+![Qt](https://img.shields.io/badge/Qt-2b2d31?style=flat-square&logo=qt&logoColor=41CD52) ![Nix](https://img.shields.io/badge/Nix-2b2d31?style=flat-square&logo=nixos&logoColor=5277C3)
 
 </td>
 <td align="center">
